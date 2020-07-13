@@ -1,4 +1,10 @@
-### Hi there 👋
+# Tim Nash
+Doing DevOps and Security things with WordPress
+
+🏠 [Tim Nash](https://timnash.co.uk)
+
+#### Todo
+- [ ] Better ReadMe intro...
 
 <!--
 **timnashcouk/timnashcouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
